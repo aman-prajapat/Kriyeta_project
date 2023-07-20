@@ -1,0 +1,500 @@
+Customer,Environment,Taste,Service,Price,Cities,neg,neu,pos,compound,Review
+1,1,1,2,1,Rewa,0.408,0.592,0,-0.8637,"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place."
+2,1,2,1,1,Indore,0.421,0.579,0,-0.8402,"Frozen pucks of disgust, with some of the worst people behind the register."
+3,1,1,2,1,Dewas,0.409,0.591,0,-0.8402,"Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings."
+4,1,2,1,2,Khandwa,0.275,0.725,0,-0.8089,"The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes."
+5,1,1,2,2,Indore,0.5,0.5,0,-0.79,It's too bad the food is so damn generic.
+6,1,1,1,3,Ujjain,0.32,0.68,0,-0.7633,First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!
+7,1,2,1,2,Rewa,0.762,0.238,0,-0.7506,And then tragedy struck.
+8,2,1,1,2,Betul,0.385,0.615,0,-0.7391,"Worst service to boot, but that is the least of their worries."
+9,1,3,1,1,Khandwa,0.277,0.723,0,-0.7293,"They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food."
+10,2,2,1,2,Dewas,0.316,0.684,0,-0.7184,"The food sucked, which we expected but it sucked more than we could have imagined."
+11,2,2,2,1,Ujjain,0.371,0.629,0,-0.7096,I left with a stomach ache and felt sick the rest of the day.
+12,2,2,1,2,Khandwa,0.855,0.145,0,-0.7096,RUDE & INCONSIDERATE MANAGEMENT.
+13,2,1,2,2,Dewas,0.423,0.577,0,-0.7074,I found this place by accident and I could not be happier.
+14,1,4,1,1,Mandsaur,0.617,0.383,0,-0.7034,The WORST EXPERIENCE EVER.
+15,3,1,1,2,Bhopal,0.322,0.678,0,-0.6956,"The ripped banana was not only ripped, but petrified and tasteless."
+16,1,1,1,4,Gwalior,0.451,0.451,0.098,-0.6908,Now I am getting angry and I want my damn pho.
+17,1,1,3,3,Gwalior,0.297,0.621,0.082,-0.683,Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.
+18,2,3,1,2,Indore,0.473,0.527,0,-0.6696,I've never been treated so bad.
+19,1,2,1,4,Jabalpur,0.424,0.576,0,-0.6606,I dressed up to be treated so rudely!
+20,1,1,3,3,Rewa,0.433,0.567,0,-0.6546,I can take a little bad service but the food sucks.
+21,1,1,4,2,Khandwa,0.276,0.724,0,-0.652,The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.
+22,2,1,3,2,Rewa,0.448,0.372,0.18,-0.6514,"Host staff were, for lack of a better word, BITCHES!"
+23,1,3,1,3,Dewas,1,0,0,-0.636,No complaints!
+24,3,1,3,1,Khandwa,0.512,0.488,0,-0.636,Omelets are to die for!
+25,1,1,2,4,Dewas,0.451,0.549,0,-0.6249,The worst was the salmon sashimi.
+26,2,1,4,1,Ujjain,0.506,0.494,0,-0.6249,The manager was the worst.
+27,2,3,1,2,Betul,0.272,0.728,0,-0.6249,The selection was probably the worst I've seen in Vegas.....there was none.
+28,1,2,2,3,Jabalpur,0.505,0.495,0,-0.623,2 times - Very Bad Customer Service !
+29,4,1,2,1,Jabalpur,0.263,0.737,0,-0.6124,"Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas."
+30,1,2,3,2,Jabalpur,0.283,0.609,0.109,-0.6124,"Poor service, the waiter made me feel like I was stupid every time he came to the table."
+31,2,2,2,2,Indore,0.2,0.8,0,-0.6106,"The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor."
+32,2,1,2,3,Ujjain,0.355,0.645,0,-0.6072,The waiter wasn't helpful or friendly and rarely checked on us.
+33,1,3,1,3,Rewa,0.274,0.726,0,-0.6007,I don't recommend unless your car breaks down in front of it and you are starving.
+34,4,1,2,1,Bhopal,0.649,0.351,0,-0.5709,Left very frustrated.
+35,2,2,2,2,Mandsaur,0.34,0.66,0,-0.5574,Not tasty and the texture was just nasty.
+36,3,2,2,1,Mandsaur,0.642,0.358,0,-0.5563,I was so insulted.
+37,1,2,1,4,Rewa,0.284,0.59,0.126,-0.5496,Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...
+38,1,5,1,1,Khandwa,0.259,0.741,0,-0.5423,"It was either too cold, not enough flavor or just bad."
+39,4,1,1,2,Betul,0.304,0.696,0,-0.5423,The last 3 times I had lunch here has been bad.
+40,3,2,2,1,Bhopal,0.429,0.571,0,-0.5423,I was shocked because no signs indicate cash only.
+41,1,3,3,1,Ujjain,0.259,0.741,0,-0.5411,I don't have to be an accountant to know I'm getting screwed!
+42,3,2,2,1,Khandwa,0.161,0.839,0,-0.5334,"Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back."
+43,3,1,2,2,Indore,0.159,0.841,0,-0.5267,"My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing."
+44,1,1,1,5,Dewas,0.253,0.747,0,-0.5256,"Overall, I was very disappointed with the quality of food at Bouchon."
+45,3,2,3,1,Jabalpur,0.195,0.805,0,-0.5256,My husband and I ate lunch here and were very disappointed with the food and service.
+46,2,1,1,5,Bhopal,0.22,0.78,0,-0.5256,"The burger... I got the ""Gold Standard"" a $17 burger and was kind of disappointed."
+47,1,4,2,2,Bhopal,0.629,0.371,0,-0.5255,He was terrible!
+48,4,1,2,2,Indore,0.184,0.816,0,-0.5233,"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location."
+49,1,3,3,2,Bhopal,0.325,0.675,0,-0.5216,The selection of food was not the best.
+50,1,2,3,3,Rewa,0.264,0.736,0,-0.5116,There is not a deal good enough that would drag me into that establishment again.
+51,2,2,2,3,Rewa,0.163,0.837,0,-0.5106,When my mom and I got home she immediately got sick and she only had a few bites of salad.
+52,2,1,2,4,Gwalior,0.452,0.548,0,-0.5106,This one is simply a disappointment.
+53,1,2,3,3,Dewas,0.615,0.385,0,-0.4939,This is a disgrace.
+54,1,1,4,3,Mandsaur,0.314,0.686,0,-0.4939,"In summary, this was a largely disappointing dining experience."
+55,3,1,4,1,Gwalior,0.307,0.693,0,-0.4767,Things that went wrong: - They burned the saganaki.
+56,4,2,1,2,Bhopal,0.508,0.492,0,-0.4767,The food was terrible.
+57,3,3,2,1,Betul,0.307,0.693,0,-0.4767,"For a self proclaimed coffee cafe, I was wildly disappointed."
+58,4,1,3,1,Jabalpur,0.147,0.853,0,-0.4767,"We also ordered the spinach and avocado salad, the ingredients were sad and the dressing literally had zero taste."
+59,2,3,2,2,Dewas,0.608,0.392,0,-0.4767,Everything was gross.
+60,3,1,1,4,Dewas,0.5,0.5,0,-0.4588,The management is rude.
+61,1,2,2,4,Gwalior,0.245,0.755,0,-0.4404,We watched our waiter pay a lot more attention to other tables and ignore us.
+62,1,3,1,4,Betul,0.286,0.714,0,-0.4215,We waited for forty five minutes in vain.
+63,2,3,2,2,Khandwa,0.483,0.517,0,-0.4215,TOTAL WASTE OF TIME.
+64,1,1,3,4,Indore,0.105,0.895,0,-0.4019,"Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too."
+65,2,3,2,2,Jabalpur,0.473,0.527,0,-0.4003,What a mistake that was!
+66,4,1,3,1,Indore,0.217,0.712,0.071,-0.3961,By this time our side of the restaurant was almost empty so there was no excuse.
+67,5,1,2,1,Jabalpur,0.314,0.686,0,-0.3952,"This place is not worth your time, let alone Vegas."
+68,3,4,1,1,Mandsaur,0.174,0.72,0.106,-0.3818,The pan cakes everyone are raving about taste like a sugary disaster tailored to the palate of a six year old.
+69,3,1,2,3,Rewa,0.464,0.536,0,-0.3804,Food was really boring.
+70,1,5,1,2,Indore,0.224,0.776,0,-0.3802,This greedy corporation will NEVER see another dime from me!
+71,1,5,1,2,Dewas,0.221,0.779,0,-0.3724,I came back today since they relocated and still not impressed.
+72,1,2,2,4,Rewa,0.186,0.719,0.095,-0.3657,The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.
+73,1,5,1,2,Bhopal,0.714,0.286,0,-0.3612,Service sucks.
+74,2,3,2,2,Ujjain,0.211,0.68,0.109,-0.3612,The poor batter to meat ratio made the chicken tenders very unsatisfying.
+75,1,4,2,2,Indore,0.454,0.546,0,-0.3595,Avoid at all cost!
+76,3,1,1,4,Rewa,0.445,0.555,0,-0.3412,Crust is not good.
+77,3,1,2,3,Khandwa,0.445,0.555,0,-0.3412,Soggy and not good.
+78,3,3,2,1,Mandsaur,0.179,0.821,0,-0.3412,"It was attached to a gas station, and that is rarely a good sign."
+79,5,2,1,1,Gwalior,0.445,0.555,0,-0.3412,It was not good.
+80,2,5,1,1,Jabalpur,0.286,0.714,0,-0.3412,There is nothing privileged about working/eating there.
+81,2,2,1,4,Dewas,0.138,0.862,0,-0.34,"Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE."
+82,3,2,2,2,Gwalior,0.545,0.455,0,-0.34,Waiter was a jerk.
+83,5,1,2,1,Ujjain,0.444,0.556,0,-0.34,It was probably dirt.
+84,2,1,5,1,Indore,0.133,0.867,0,-0.3182,At least think to refill my water before I struggle to wave you over for 10 minutes.
+85,2,1,5,1,Bhopal,0.534,0.466,0,-0.3164,Service stinks here!
+86,3,3,1,3,Jabalpur,0.311,0.689,0,-0.3089,the spaghetti is nothing special whatsoever.
+87,3,2,3,2,Indore,0.693,0.307,0,-0.3089,Nothing special.
+88,1,4,3,2,Gwalior,0.196,0.804,0,-0.296,"When my order arrived, one of the gyros was missing."
+89,2,2,1,5,Indore,0.306,0.694,0,-0.296,"For service, I give them no stars."
+90,1,1,3,5,Mandsaur,0.136,0.864,0,-0.296,We literally sat there for 20 minutes with no one asking to take our order.
+91,1,4,1,4,Dewas,0.323,0.462,0.215,-0.2887,Horrible - don't waste your time and money.
+92,2,3,2,3,Gwalior,0.192,0.808,0,-0.2808,"(It wasn't busy either) Also, the building was FREEZING cold."
+93,2,1,4,3,Gwalior,0.345,0.655,0,-0.2755,did not like at all.
+94,5,2,1,2,Bhopal,0.123,0.877,0,-0.2755,I'm probably one of the few people to ever go to Ians and not like it.
+95,2,5,2,1,Bhopal,0.258,0.742,0,-0.2698,very tough and very short on flavor!
+96,3,1,2,4,Gwalior,0.29,0.71,0,-0.2592,But now I was completely grossed out.
+97,3,1,5,1,Bhopal,0.286,0.714,0,-0.25,The only downside is the service.
+98,3,5,1,1,Gwalior,0.085,0.915,0,-0.2411,If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.
+99,1,4,4,1,Betul,0.269,0.731,0,-0.2382,Kind of hard to mess up a steak but they did.
+100,2,2,3,3,Mandsaur,0.085,0.915,0,-0.2382,"I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense."
+101,3,2,4,1,Dewas,0.224,0.656,0.12,-0.2263,"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks."
+102,3,1,1,5,Jabalpur,0.156,0.844,0,-0.2144,"I find wasting food to be despicable, but this just wasn't food."
+103,2,4,2,2,Indore,0.091,0.909,0,-0.2023,"I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water."
+104,1,1,3,5,Rewa,0.458,0.542,0,-0.1759,The Burrittos Blah!
+105,1,4,1,4,Gwalior,0.192,0.808,0,-0.1695,Which are small and not worth the price.
+106,5,1,2,2,Dewas,0.126,0.772,0.102,-0.1531,I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.
+107,3,3,3,1,Betul,0.2,0.8,0,-0.128,"Strike 2, who wants to be rushed."
+108,1,3,5,1,Jabalpur,0.148,0.719,0.133,-0.1074,"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser."
+109,2,2,1,5,Mandsaur,0.085,0.846,0.069,-0.1027,"This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed."
+110,1,1,5,3,Indore,0.315,0.419,0.265,-0.092,The warm beer didn't help.
+111,1,4,1,4,Jabalpur,0.302,0.698,0,-0.0772,The service was meh.
+112,1,2,3,4,Mandsaur,0.079,0.921,0,-0.0516,We asked for the bill to leave without eating and they didn't bring that either.
+113,3,4,1,2,Jabalpur,0.15,0.705,0.145,-0.0314,"Although I very much liked the look and sound of this place, the actual experience was a bit disappointing."
+114,2,2,1,5,Jabalpur,0.27,0.476,0.254,-0.0258,I had a seriously solid breakfast here.
+115,2,2,2,4,Khandwa,0.227,0.552,0.221,-0.024,The bus boy on the other hand was so rude.
+116,1,4,2,3,Gwalior,0.252,0.503,0.245,-0.021,I've never been more insulted or felt disrespected.
+117,2,1,4,3,Dewas,0.2,0.6,0.199,-0.0056,There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.
+118,4,3,2,1,Betul,0,1,0,0,I will come back here every time I'm in Vegas.
+119,2,3,1,4,Indore,0,1,0,0,Def coming back to bowl next time
+120,5,2,2,1,Mandsaur,0,1,0,0,"Plus, it's only 8 bucks."
+121,2,3,3,2,Rewa,0,1,0,0,This place deserves one star and 90% has to do with the food.
+122,4,3,1,2,Gwalior,0,1,0,0,I won't be back.
+123,4,1,2,3,Indore,0,1,0,0,The live music on Fridays totally blows.
+124,2,1,5,2,Ujjain,0,1,0,0,WILL NEVER EVER GO BACK AND HAVE TOLD MANY PEOPLE WHAT HAD HAPPENED.
+125,5,1,3,1,Dewas,0,1,0,0,Waitress was a little slow in service.
+126,4,2,3,1,Gwalior,0,1,0,0,So they performed.
+127,2,1,5,2,Indore,0,1,0,0,"I tried the Cape Cod ravoli, chicken, with cranberry...mmmm!"
+128,3,4,2,1,Rewa,0,1,0,0,"It took over 30 min to get their milkshake, which was nothing more than chocolate milk."
+129,1,5,2,2,Khandwa,0,1,0,0,"Will never, ever go back."
+130,1,3,4,2,Ujjain,0,1,0,0,"OMG, the food was delicioso!"
+131,3,3,2,2,Bhopal,0,1,0,0,The restaurant atmosphere was exquisite.
+132,5,1,2,2,Gwalior,0,1,0,0,I dont think I will be back for a very long time.
+133,5,2,2,1,Mandsaur,0,1,0,0,I ordered the Lemon raspberry ice cocktail which was also incredible.
+134,5,2,2,1,Bhopal,0,1,0,0,I don't think I'll be running back to Carly's anytime soon for food.
+135,3,2,2,3,Mandsaur,0,1,0,0,They dropped more than the ball.
+136,1,3,1,5,Jabalpur,0,1,0,0,I will be back many times soon.
+137,1,3,3,3,Mandsaur,0,1,0,0,It shouldn't take 30 min for pancakes and eggs.
+138,5,3,1,1,Betul,0,1,0,0,CONCLUSION: Very filling meals.
+139,3,5,1,1,Jabalpur,0,1,0,0,"If it were possible to give them zero stars, they'd have it."
+140,3,4,1,2,Mandsaur,0,1,0,0,"The descriptions said ""yum yum sauce"" and another said ""eel sauce"", yet another said ""spicy mayo""...well NONE of the rolls had sauces on them."
+141,1,2,2,5,Rewa,0,1,0,0,We sat another ten minutes and finally gave up and left.
+142,2,5,2,1,Rewa,0,1,0,0,(The bathroom is just next door and very nice.)
+143,1,2,5,2,Mandsaur,0,1,0,0,5 stars for the brick oven bread app!
+144,3,4,1,3,Gwalior,0,1,0,0,Honeslty it didn't taste THAT fresh.)
+145,5,3,2,1,Rewa,0,1,0,0,There is nothing authentic about this place.
+146,2,5,1,3,Jabalpur,0,1,0,0,-Drinks took close to 30 minutes to come out at one point.
+147,1,2,4,4,Betul,0,1,0,0,Their daily specials are always a hit with my group.
+148,2,4,2,3,Mandsaur,0,1,0,0,The lighting is just dark enough to set the mood.
+149,3,4,3,1,Ujjain,0,1,0,0,"The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected."
+150,2,4,1,4,Indore,0,1,0,0,Now this dish was quite flavourful.
+151,4,4,1,2,Dewas,0,1,0,0,"As for the ""mains,"" also uninspired."
+152,1,1,5,4,Betul,0,1,0,0,The buffet is small and all the food they offered was BLAND.
+153,2,4,2,3,Indore,0,1,0,0,Service was very prompt.
+154,5,1,4,1,Indore,0,1,0,0,I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.
+155,2,3,2,4,Betul,0,1,0,0,Would not go back.
+156,5,4,1,1,Khandwa,0,1,0,0,Must have been an off night at this place.
+157,4,1,3,3,Ujjain,0,1,0,0,"The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous."
+158,2,4,1,4,Bhopal,0,1,0,0,"For about 10 minutes, we we're waiting for her salad when we realized that it wasn't coming any time soon."
+159,1,1,4,5,Jabalpur,0,1,0,0,Won't go back.
+160,2,2,4,3,Rewa,0,1,0,0,Extremely Tasty!
+161,5,3,1,2,Indore,0,1,0,0,Would come back again if I had a sushi craving while in Vegas.
+162,2,3,4,2,Bhopal,0,1,0,0,#NAME?
+163,4,3,3,1,Gwalior,0,1,0,0,My wife had the Lobster Bisque soup which was lukewarm.
+164,4,1,4,2,Khandwa,0,1,0,0,#NAME?
+165,3,2,3,3,Indore,0,1,0,0,"The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!"
+166,4,2,4,1,Ujjain,0,1,0,0,The service was a bit lacking.
+167,4,2,4,1,Bhopal,0,1,0,0,"Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables."
+168,2,3,2,4,Gwalior,0,1,0,0,They know how to make them here.
+169,4,2,4,1,Jabalpur,0,1,0,0,I took back my money and got outta there.
+170,3,2,2,4,Mandsaur,0,1,0,0,He deserves 5 stars.
+171,5,2,2,2,Bhopal,0,1,0,0,Never again will I be dining at this place!
+172,1,4,2,4,Betul,0,1,0,0,Bacon is hella salty.
+173,4,1,5,1,Dewas,0,1,0,0,"Phenomenal food, service and ambiance."
+174,1,2,5,3,Indore,0,1,0,0,All the bread is made in-house!
+175,2,2,5,2,Khandwa,0,1,0,0,The one down note is the ventilation could use some upgrading.
+176,5,1,3,2,Bhopal,0,1,0,0,I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.
+177,2,4,1,4,Mandsaur,0,1,0,0,You can't beat that.
+178,2,1,4,4,Bhopal,0,1,0,0,Check it out.
+179,1,5,4,1,Mandsaur,0,1,0,0,"This place is not quality sushi, it is not a quality restaurant."
+180,5,1,2,3,Indore,0,1,0,0,"At least 40min passed in between us ordering and the food arriving, and it wasn't that busy."
+181,5,4,1,1,Mandsaur,0,1,0,0,Will go back next trip out.
+182,2,2,2,5,Rewa,0,1,0,0,I never come again.
+183,5,1,4,1,Khandwa,0,1,0,0,Ordered an appetizer and took 40 minutes and then the pizza another 10 minutes.
+184,3,2,5,1,Khandwa,0,1,0,0,"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00."
+185,1,2,4,4,Gwalior,0,1,0,0,I think not again
+186,1,5,1,4,Ujjain,0,1,0,0,"If you're not familiar, check it out."
+187,5,2,1,3,Ujjain,0,1,0,0,I'll take my business dinner dollars elsewhere.
+188,1,5,1,4,Betul,0,1,0,0,The chicken wings contained the driest chicken meat I have ever eaten.
+189,3,1,4,3,Jabalpur,0,1,0,0,Food arrived quickly!
+190,1,4,4,2,Rewa,0,1,0,0,The turkey and roast beef were bland.
+191,5,2,2,2,Gwalior,0,1,0,0,This place has it!
+192,2,4,1,4,Betul,0,1,0,0,I waited and waited.
+193,2,3,4,2,Bhopal,0.25,0.474,0.276,0,I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.
+194,3,2,2,4,Dewas,0,1,0,0,Im in AZ all the time and now have my new spot.
+195,4,4,2,1,Gwalior,0,1,0,0,Food was so gooodd.
+196,4,3,1,3,Rewa,0,1,0,0,I wouldn't return.
+197,4,4,2,1,Jabalpur,0,1,0,0,"This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things."
+198,2,3,1,5,Jabalpur,0,1,0,0,This place receives stars for their APPETIZERS!!!
+199,3,5,2,1,Ujjain,0,1,0,0,Sauce was tasteless.
+200,5,3,2,1,Dewas,0,1,0,0,Will not be back.
+201,2,4,2,3,Gwalior,0,1,0,0,say bye bye to your tip lady!
+202,4,1,1,5,Dewas,0,1,0,0,We'll never go again.
+203,3,3,2,3,Gwalior,0,1,0,0,Will be back again!
+204,3,1,5,2,Bhopal,0,1,0,0,I don't think we'll be going back anytime soon.
+205,1,5,2,3,Jabalpur,0,1,0,0,"Furthermore, you can't even find hours of operation on the website!"
+206,3,1,2,5,Rewa,0,1,0,0,The Greek dressing was very creamy and flavorful.
+207,2,4,1,4,Bhopal,0,1,0,0,This place is way too overpriced for mediocre food.
+208,5,2,3,1,Dewas,0,1,0,0,I give it 2 thumbs down
+209,3,2,5,1,Rewa,0,1,0,0,The shrimp tender and moist.
+210,2,2,3,4,Khandwa,0,1,0,0,The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.
+211,4,2,1,4,Ujjain,0,1,0,0,"Third, the cheese on my friend's burger was cold."
+212,1,3,4,3,Dewas,0,1,0,0,Crostini that came with the salad was stale.
+213,4,1,2,5,Ujjain,0,1,0,0,The only redeeming quality of the restaurant was that it was very inexpensive.
+214,5,2,1,4,Khandwa,0,1,0,0,Never going back.
+215,2,1,4,5,Dewas,0,1,0,0,Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.
+216,2,5,3,2,Rewa,0,1,0,0,She ordered a toasted English muffin that came out untoasted.
+217,3,2,2,5,Ujjain,0,1,0,0,We got the food and apparently they have never heard of salt and the batter on the fish was chewy.
+218,5,4,1,2,Ujjain,0,1,0,0,I was seated immediately.
+219,2,5,1,4,Dewas,0,1,0,0,"Their menu is diverse, and reasonably priced."
+220,3,3,1,5,Betul,0,1,0,0,Restaurant is always full but never a wait.
+221,5,1,3,3,Betul,0,1,0,0,"The service was not up to par, either."
+222,1,5,4,2,Betul,0,1,0,0,#NAME?
+223,5,1,3,3,Dewas,0,1,0,0,"The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace."
+224,4,3,3,2,Jabalpur,0,1,0,0,"Total letdown, I would much rather just go to the Camelback Flower Shop and Cartel Coffee."
+225,3,4,2,3,Mandsaur,0,1,0,0,"The menu is always changing, food quality is going down & service is extremely slow."
+226,2,3,2,5,Jabalpur,0,1,0,0,Just don't know why they were so slow.
+227,4,2,2,4,Indore,0,1,0,0,"On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop."
+228,5,1,4,2,Dewas,0,1,0,0,Don't do it!!!!
+229,2,5,4,1,Betul,0,1,0,0,The Veggitarian platter is out of this world!
+230,2,5,4,1,Gwalior,0,1,0,0,He came running after us when he realized my husband had left his sunglasses on the table.
+231,5,1,2,4,Rewa,0,1,0,0,First time going but I think I will quickly become a regular.
+232,3,2,2,5,Gwalior,0,1,0,0,Waited 2 hours & never got either of our pizzas as many other around us who came in later did!
+233,2,5,4,1,Mandsaur,0,1,0,0,And the red curry had so much bamboo shoots and wasn't very tasty to me.
+234,2,5,3,2,Rewa,0,1,0,0,Gave up trying to eat any of the crust (teeth still sore).
+235,3,3,5,1,Ujjain,0.145,0.698,0.157,0.0516,Definitely a turn off for me & i doubt I'll be back unless someone else is buying.
+236,1,3,3,5,Rewa,0.122,0.745,0.133,0.0516,walked in and the place smelled like an old grease trap and only 2 others there eating.
+237,1,5,3,3,Betul,0.104,0.779,0.117,0.0541,"I've had better, not only from dedicated boba tea spots, but even from Jenni Pho."
+238,5,2,3,2,Rewa,0.361,0.233,0.406,0.1007,It was pretty gross!
+239,1,5,3,3,Rewa,0,0.898,0.102,0.1501,"Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!"
+240,2,4,5,1,Betul,0,0.94,0.06,0.1655,"If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen."
+241,4,2,1,5,Betul,0.173,0.668,0.158,0.1672,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.
+242,4,1,2,5,Jabalpur,0.101,0.755,0.145,0.1779,It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.
+243,5,4,2,1,Rewa,0,0.889,0.111,0.1901,We've tried to like this place but after 10+ times I think we're done with them.
+244,2,2,3,5,Bhopal,0,0.833,0.167,0.2023,"This isn't a small family restaurant, this is a fine dining establishment."
+245,5,1,5,1,Mandsaur,0,0.678,0.322,0.2263,It is worth the drive.
+246,2,4,4,2,Jabalpur,0.124,0.717,0.159,0.228,"He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas."
+247,5,4,1,2,Rewa,0,0.911,0.089,0.2382,"We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night."
+248,3,2,2,5,Khandwa,0.192,0.481,0.327,0.2431,The scallop dish is quite appalling for value as well.
+249,5,1,1,5,Jabalpur,0.094,0.769,0.137,0.25,The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.
+250,1,5,4,2,Gwalior,0.199,0.478,0.323,0.2579,Definitely not worth the $3 I paid.
+251,4,2,4,2,Ujjain,0,0.323,0.677,0.2716,Highly recommended.
+252,4,5,2,1,Ujjain,0,0.792,0.208,0.2732,I as well would've given godfathers zero stars if possible.
+253,3,4,2,3,Betul,0.094,0.766,0.14,0.2732,Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.
+254,3,1,3,5,Indore,0,0.769,0.231,0.2732,The service here leaves a lot to be desired.
+255,1,2,4,5,Betul,0.214,0.44,0.346,0.2732,I was disgusted because I was pretty sure that was human hair.
+256,5,4,1,2,Bhopal,0,0.89,0.11,0.2732,My fiancé and I came in the middle of the day and we were greeted and seated right away.
+257,2,4,4,2,Jabalpur,0,0.695,0.305,0.2942,It's worth driving up from Tucson!
+258,1,2,5,4,Rewa,0.109,0.705,0.186,0.296,This is some seriously good pizza and I'm an expert/connisseur on the topic.
+259,3,5,2,2,Indore,0,0.842,0.158,0.3089,This was my first and only Vegas buffet and it did not disappoint.
+260,1,1,5,5,Betul,0,0.777,0.223,0.3182,Please stay away from the shrimp stir fried noodles.
+261,3,5,1,3,Dewas,0.254,0.299,0.448,0.3182,"Seriously flavorful delights, folks."
+262,2,3,2,5,Mandsaur,0,0.905,0.095,0.3182,Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.
+263,3,4,4,1,Gwalior,0,0.632,0.368,0.3252,Don't waste your time here.
+264,1,4,5,2,Indore,0.15,0.584,0.266,0.3384,Food was really good and I got full petty fast.
+265,3,5,2,2,Jabalpur,0,0.764,0.236,0.3544,If you want a sandwich just go to any Firehouse!!!!!
+266,3,1,5,3,Khandwa,0,0.815,0.185,0.3612,The only thing I did like was the prime rib and dessert section.
+267,4,4,2,2,Jabalpur,0,0.8,0.2,0.3612,Not much seafood and like 5 strings of pasta at the bottom.
+268,4,3,3,2,Bhopal,0,0.615,0.385,0.3612,"Overall, I like this place a lot."
+269,2,2,5,3,Ujjain,0,0.872,0.128,0.3612,"As much as I'd like to go back, I can't get passed the atrocious service and will never return."
+270,3,4,3,2,Ujjain,0,0.848,0.152,0.3612,"Also there are combos like a burger, fries, and beer for 23 which is a decent deal."
+271,3,1,4,4,Betul,0,0.8,0.2,0.3612,"The atmosphere is modern and hip, while maintaining a touch of coziness."
+272,4,4,2,2,Betul,0,0.779,0.221,0.3724,You cant go wrong with any of the food here.
+273,1,5,2,4,Mandsaur,0,0.797,0.203,0.3724,I went to Bachi Burger on a friend's recommendation and was not disappointed.
+274,1,5,3,3,Khandwa,0,0.54,0.46,0.3724,You won't be disappointed.
+275,3,1,4,5,Ujjain,0,0.536,0.464,0.3802,The portion was huge!
+276,3,5,3,2,Rewa,0,0.649,0.351,0.4019,We'd definitely go back here again.
+277,1,5,2,5,Jabalpur,0,0.791,0.209,0.4019,The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.
+278,4,3,1,5,Khandwa,0,0.649,0.351,0.4019,definitely will come back here again.
+279,2,3,4,4,Jabalpur,0,0.597,0.403,0.4019,Everyone is treated equally special.
+280,3,4,5,1,Bhopal,0,0.649,0.351,0.4019,I'll definitely be in soon again.
+281,2,4,5,2,Dewas,0,0.856,0.144,0.4019,Hopefully this bodes for them going out of business and someone who can cook can come in.
+282,1,5,5,2,Mandsaur,0,0.27,0.73,0.4019,Interesting decor.
+283,5,5,2,1,Gwalior,0,0.642,0.358,0.4199,This was like the final blow!
+284,1,4,5,3,Gwalior,0,0.715,0.285,0.4201,What I really like there is the crepe station.
+285,5,2,5,1,Betul,0,0.887,0.113,0.4201,I will continue to come here on ladies night andddd date night ... highly recommend this place to anyone who is in the area.
+286,4,1,3,5,Rewa,0,0.774,0.226,0.4207,"like the other reviewer said ""you couldn't pay me to eat at this place again."""
+287,4,3,3,3,Mandsaur,0,0.517,0.483,0.4215,"Nice, spicy and tender."
+288,3,3,3,4,Mandsaur,0,0.859,0.141,0.4215,They had a toro tartare with a cavier that was extraordinary and I liked the thinly sliced wagyu with white truffle.
+289,5,4,2,2,Ujjain,0,0.872,0.128,0.4215,We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.
+290,4,3,1,5,Indore,0,0.791,0.209,0.4404,Now the pizza itself was good the peanut sauce was very tasty.
+291,2,3,3,5,Ujjain,0,0.58,0.42,0.4404,I hope this place sticks around.
+292,1,5,2,5,Bhopal,0,0.58,0.42,0.4404,Ample portions and good prices.
+293,5,2,4,2,Bhopal,0,0.791,0.209,0.4404,Much better than the other AYCE sushi place I went to in Vegas.
+294,3,4,3,3,Jabalpur,0,0.775,0.225,0.4404,This is one of the better buffets that I have been to.
+295,2,5,2,4,Khandwa,0,0.861,0.139,0.4404,"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways."
+296,5,5,2,1,Betul,0,0.838,0.162,0.4404,We waited an hour for what was a breakfast I could have done 100 times better at home.
+297,4,4,1,4,Khandwa,0,0.775,0.225,0.4404,So don't go there if you are looking for good food...
+298,3,4,3,3,Ujjain,0,0.508,0.492,0.4404,this place is good.
+299,2,5,3,3,Ujjain,0,0.868,0.132,0.4404,"They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers."
+300,2,4,4,3,Bhopal,0,0.508,0.492,0.4404,I've had better atmosphere.
+301,4,3,1,5,Gwalior,0,0.256,0.744,0.4404,Good prices.
+302,5,2,3,3,Gwalior,0,0.775,0.225,0.4404,Service was exceptional and food was a good as all the reviews.
+303,4,2,4,3,Jabalpur,0,0.707,0.293,0.4404,"The burger is good beef, cooked just right."
+304,3,3,4,3,Dewas,0,0.692,0.308,0.4588,"If you want healthy authentic or ethic food, try this place."
+305,1,4,4,4,Mandsaur,0,0.786,0.214,0.4588,Their monster chicken fried steak and eggs is my all time favorite.
+306,5,1,3,4,Bhopal,0,0.87,0.13,0.4588,"I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing)."
+307,1,2,5,5,Jabalpur,0,0.5,0.5,0.4588,Service is also cute.
+308,5,3,3,2,Ujjain,0.093,0.727,0.18,0.4627,I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.
+309,4,1,3,5,Bhopal,0,0.239,0.761,0.4926,Good Service-check!
+310,1,4,5,3,Indore,0,0.758,0.242,0.4926,Just as good as when I had it more than a year ago!
+311,5,4,1,3,Khandwa,0,0.484,0.516,0.4926,Waitress was good though!
+312,3,3,5,2,Ujjain,0,0.738,0.262,0.4927,"On the up side, their cafe serves really good food."
+313,1,5,5,2,Indore,0,0.556,0.444,0.4927,The food was very good.
+314,1,4,4,4,Khandwa,0,0.484,0.516,0.4927,Very good lunch spot.
+315,2,3,5,3,Mandsaur,0,0.738,0.262,0.4939,These are the nicest restaurant owners I've ever come across.
+316,2,5,2,4,Dewas,0,0.824,0.176,0.4939,I had the mac salad and it was pretty bland so I will not be getting that again.
+317,2,4,3,4,Jabalpur,0,0.556,0.444,0.4939,Service is quick and friendly.
+318,5,4,2,2,Gwalior,0,0.61,0.39,0.4939,We enjoy their pizza and brunch.
+319,2,5,5,1,Betul,0,0.758,0.242,0.4939,We had 7 at our table and the service was pretty fast.
+320,5,1,5,2,Rewa,0,0.68,0.32,0.5093,The black eyed peas and sweet potatoes... UNREAL!
+321,5,2,5,1,Betul,0,0.76,0.24,0.5378,The menu had so much good stuff on it i could not decide!
+322,2,5,2,4,Bhopal,0,0.223,0.777,0.5399,Sooooo good!!
+323,1,5,2,5,Jabalpur,0,0.365,0.635,0.54,"Very good, though!"
+324,2,3,4,4,Indore,0,0.364,0.636,0.5413,Very friendly staff.
+325,5,3,2,3,Jabalpur,0,0.534,0.466,0.5413,The waitresses are very friendly.
+326,4,3,5,1,Betul,0,0.753,0.247,0.5563,"I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied."
+327,3,4,3,3,Indore,0,0.455,0.545,0.5563,I really enjoyed eating here.
+328,1,4,5,3,Betul,0,0.625,0.375,0.5574,Both of the egg rolls were fantastic.
+329,4,4,1,4,Bhopal,0,0.357,0.643,0.5574,Fantastic service here.
+330,1,4,3,5,Indore,0,0.357,0.643,0.5574,Service was fantastic.
+331,1,5,4,3,Indore,0,0.714,0.286,0.5574,"Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor."
+332,5,4,3,1,Bhopal,0,0.765,0.235,0.5574,"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas."
+333,4,5,1,3,Dewas,0,0.393,0.607,0.561,This is an unbelievable BARGAIN!
+334,4,1,4,4,Ujjain,0.107,0.624,0.269,0.5647,"If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying drunk people."
+335,1,5,2,5,Indore,0,0.654,0.346,0.5719,I didn't know pulled pork could be soooo delicious.
+336,3,5,2,3,Khandwa,0,0.619,0.381,0.5719,"Anyway, this FS restaurant has a wonderful breakfast/lunch."
+337,5,1,3,4,Indore,0,0.654,0.346,0.5719,Cooked to perfection and the service was impeccable.
+338,5,3,1,4,Rewa,0,0.802,0.198,0.5719,The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.
+339,2,4,3,4,Indore,0,0.748,0.252,0.5719,"I have eaten here multiple times, and each time the food was delicious."
+340,5,2,4,2,Khandwa,0,0.519,0.481,0.5719,The Jamaican mojitos are delicious.
+341,4,3,5,2,Khandwa,0,0.821,0.179,0.5719,We had a group of 70+ when we claimed we would only have 40 and they handled us beautifully.
+342,1,5,5,3,Dewas,0,0.619,0.381,0.5719,The cocktails are all handmade and delicious.
+343,2,5,5,2,Khandwa,0,0.764,0.236,0.5719,This wonderful experience made this place a must-stop whenever we are in town again.
+344,5,2,5,2,Indore,0,0.748,0.252,0.5719,We walked away stuffed and happy about our first Vegas buffet experience.
+345,4,3,3,4,Betul,0,0.706,0.294,0.5777,That's right....the red velvet cake.....ohhh this stuff is so good.
+346,1,4,4,5,Ujjain,0.131,0.435,0.434,0.5848,"Come hungry, leave happy and stuffed!"
+347,3,2,5,4,Jabalpur,0,0.743,0.257,0.5859,Update.....went back for a second time and it was still just as amazing
+348,1,4,4,5,Jabalpur,0,0.345,0.655,0.5859,"The food, amazing."
+349,4,4,3,3,Betul,0,0.703,0.297,0.5859,"A couple of months later, I returned and had an amazing meal."
+350,2,5,5,2,Betul,0,0.652,0.348,0.5859,The bathrooms are clean and the place itself is well decorated.
+351,4,2,5,3,Gwalior,0,0.644,0.356,0.5949,We are so glad we found this place.
+352,2,4,5,3,Gwalior,0,0.437,0.563,0.5956,Very very fun chef.
+353,3,5,5,1,Bhopal,0,0.34,0.66,0.5965,So absolutley fantastic.
+354,3,4,3,4,Dewas,0,0.204,0.796,0.5983,Fantastic food!
+355,5,2,2,5,Betul,0,0.673,0.327,0.5983,So we went to Tigerlilly and had a fantastic afternoon!
+356,4,5,2,3,Mandsaur,0,0.796,0.204,0.5984,"Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed."
+357,1,4,4,5,Mandsaur,0,0.506,0.494,0.5994,I loved the bacon wrapped dates.
+358,3,5,2,4,Khandwa,0,0.435,0.565,0.5994,Wow... Loved this place.
+359,4,2,3,5,Ujjain,0,0.435,0.565,0.5994,We loved the place.
+360,2,4,4,4,Dewas,0,0.548,0.452,0.6065,I can assure you that you won't be disappointed.
+361,4,1,5,4,Bhopal,0,0.638,0.362,0.6077,"Everyone is very attentive, providing excellent customer service."
+362,2,4,3,5,Khandwa,0,0.693,0.307,0.6114,"This was my first crawfish experience, and it was delicious!"
+363,5,4,2,3,Bhopal,0,0.334,0.666,0.6114,Penne vodka excellent!
+364,5,5,3,1,Ujjain,0,0.637,0.363,0.6114,you can watch them preparing the delicious food!)
+365,3,2,5,4,Dewas,0,0.556,0.444,0.6114,Delicious and I will absolutely be back!
+366,3,5,5,1,Dewas,0,0.765,0.235,0.6115,"Thus far, have only visited twice and the food was absolutely delicious each time."
+367,5,5,3,1,Khandwa,0,0.615,0.385,0.6124,I like Steiners because it's dark and it feels like a bar.
+368,2,4,4,4,Indore,0,0.692,0.308,0.6124,The food was outstanding and the prices were very reasonable.
+369,3,4,2,5,Mandsaur,0,0.545,0.455,0.6124,Service was fine and the waitress was friendly.
+370,4,3,3,4,Gwalior,0,0.634,0.366,0.6166,I did not expect this to be so good!
+371,1,4,5,4,Betul,0,0.554,0.446,0.6166,Their chow mein is so good!
+372,4,3,2,5,Gwalior,0,0.423,0.577,0.6239,This place is amazing!
+373,1,5,4,4,Indore,0,0.746,0.254,0.6239,"Not to mention the combination of pears, almonds and bacon is a big winner!"
+374,5,5,2,2,Rewa,0,0.729,0.271,0.6239,The goat taco didn't skimp on the meat and wow what FLAVOR!
+375,1,5,3,5,Rewa,0,0.745,0.255,0.6249,"Great food for the price, which is very high quality and house made."
+376,2,4,3,5,Indore,0,0.196,0.804,0.6249,A great touch.
+377,5,1,5,3,Jabalpur,0,0.631,0.369,0.6249,This is a great restaurant at the Mandalay Bay.
+378,5,5,1,3,Bhopal,0,0.423,0.577,0.6249,How awesome is that.
+379,4,3,2,5,Khandwa,0,0.773,0.227,0.6249,"The staff is great, the food is delish, and they have an incredible beer selection."
+380,2,4,3,5,Betul,0,0.728,0.272,0.6249,The selection on the menu was great and so were the prices.
+381,5,1,4,4,Dewas,0,0.773,0.227,0.6249,"I have been here several times in the past, and the experience has always been great."
+382,4,2,5,3,Gwalior,0,0.494,0.506,0.6249,The fries were great too.
+383,1,5,5,3,Gwalior,0,0.814,0.186,0.6249,"Great place to eat, reminds me of the little mom and pop shops in the San Francisco Bay Area."
+384,5,2,2,5,Betul,0,0.423,0.577,0.6249,They have great dinners.
+385,3,2,4,5,Rewa,0,0.494,0.506,0.6249,Nargile - I think you are great.
+386,2,5,3,4,Rewa,0,0.823,0.177,0.6249,Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.
+387,3,5,3,3,Indore,0,0.661,0.339,0.6249,Server did a great job handling our large rowdy table.
+388,2,5,4,3,Dewas,0,0.423,0.577,0.6249,Great service and food.
+389,1,5,3,5,Ujjain,0,0.328,0.672,0.6249,Great pork sandwich.
+390,2,5,3,4,Indore,0,0.328,0.672,0.6249,Great brunch spot.
+391,3,4,4,3,Betul,0,0.545,0.455,0.6331,Favorite place in town for shawarrrrrrma!!!!!!
+392,5,1,5,3,Indore,0,0.699,0.301,0.6345,"Not a weekly haunt, but definitely a place to come back to every once in a while."
+393,1,5,4,4,Khandwa,0,0.589,0.411,0.636,My first visit to Hiro was a delight!
+394,5,5,1,3,Dewas,0,0.656,0.344,0.6369,And the beans and rice were mediocre at best.
+395,3,5,5,1,Indore,0,0.323,0.677,0.6369,I love this place.
+396,4,5,3,2,Jabalpur,0,0.536,0.464,0.6369,The service was outshining & I definitely recommend the Halibut.
+397,5,4,3,2,Jabalpur,0,0.811,0.189,0.6369,"The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked."
+398,5,4,3,3,Betul,0,0.704,0.296,0.6369,"Best Buffet in town, for the price you cannot beat it."
+399,2,3,5,5,Rewa,0,0.488,0.512,0.6369,I'd love to go back.
+400,4,5,2,4,Rewa,0,0.543,0.457,0.6369,Best tater tots in the southwest.
+401,3,5,3,4,Khandwa,0,0.794,0.206,0.6369,Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.
+402,5,1,4,5,Jabalpur,0,0.781,0.219,0.6369,This place is hands-down one of the best places to eat in the Phoenix metro area.
+403,4,5,2,4,Bhopal,0,0.704,0.296,0.6369,This is one of the best bars with food in Vegas.
+404,5,5,2,3,Jabalpur,0,0,1,0.6467,DELICIOUS!!
+405,4,2,4,5,Dewas,0.141,0.468,0.392,0.6479,"REAL sushi lovers, let's be honest - Yama is not that good."
+406,4,4,2,5,Khandwa,0,0.798,0.202,0.6486,"By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known."
+407,1,5,5,4,Bhopal,0,0.782,0.218,0.6486,"This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here."
+408,5,1,5,4,Indore,0,0.715,0.285,0.658,This is the place where I first had pho and it was amazing!!
+409,4,2,5,4,Bhopal,0,0.532,0.468,0.6588,Some highlights : Great quality nigiri here!
+410,5,3,4,3,Indore,0,0.774,0.226,0.6588,Kids pizza is always a hit too with lots of great side dish options for the kiddos!
+411,5,5,4,1,Khandwa,0,0.614,0.386,0.6588,Food was great and so was the serivce!
+412,5,4,2,4,Khandwa,0,0.406,0.594,0.6588,Great Pizza and Salads!
+413,5,1,5,4,Jabalpur,0,0.532,0.468,0.6588,Always a great time at Dos Gringos!
+414,4,5,2,4,Betul,0,0.649,0.351,0.6602,"Also, the fries are without a doubt the worst fries I've ever had."
+415,5,4,1,5,Ujjain,0,0.609,0.391,0.6696,Best fish I've ever had in my life!
+416,5,3,5,2,Mandsaur,0,0.646,0.354,0.6696,The vegetables are so fresh and the sauce feels like authentic Thai.
+417,4,1,5,5,Indore,0,0.667,0.333,0.6696,The best place to go for a tasty bowl of Pho!
+418,5,4,5,1,Gwalior,0,0.4,0.6,0.6696,"Love the margaritas, too!"
+419,3,3,5,4,Gwalior,0,0.776,0.224,0.6697,"Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good."
+420,2,4,5,4,Indore,0,0.353,0.647,0.6705,Service is friendly and inviting.
+421,4,2,5,4,Indore,0,0.56,0.44,0.6705,The ambience is wonderful and there is music playing.
+422,5,2,4,4,Khandwa,0,0.267,0.733,0.6705,Pretty cool I would say.
+423,5,4,1,5,Gwalior,0,0.696,0.304,0.6757,Nice blanket of moz over top but i feel like this was done to cover up the subpar food.
+424,5,4,3,3,Mandsaur,0,0.304,0.696,0.6784,It was delicious!!!
+425,4,4,5,2,Khandwa,0,0.7,0.3,0.6788,"Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!"
+426,4,3,5,3,Bhopal,0,0.517,0.483,0.6808,The seafood was fresh and generous in portion.
+427,4,3,5,3,Khandwa,0,0.697,0.303,0.6865,From what my dinner companions told me...everything was very fresh with nice texture and taste.
+428,3,2,5,5,Bhopal,0,0.631,0.369,0.6884,All I have to say is the food was amazing!!!
+429,4,4,2,5,Ujjain,0,0.461,0.539,0.6893,Owner's are really great people.!
+430,2,4,4,5,Gwalior,0.093,0.585,0.322,0.6908,Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.
+431,3,5,2,5,Rewa,0,0.386,0.614,0.6981,We loved the biscuits!!!
+432,5,5,4,1,Mandsaur,0,0.511,0.489,0.6988,Best tacos in town by far!!
+433,3,5,4,3,Mandsaur,0,0.508,0.492,0.7003,Good beer & drink selection and good food selection.
+434,4,5,2,4,Bhopal,0,0.707,0.293,0.7003,"I had heard good things about this place, but it exceeding every hope I could have dreamed of."
+435,5,3,2,5,Mandsaur,0,0.576,0.424,0.7096,the staff is friendly and the joint is always clean.
+436,4,5,1,5,Mandsaur,0.101,0.589,0.31,0.7106,I don't know what kind it is but they have the best iced tea.
+437,3,4,3,5,Betul,0,0.169,0.831,0.7118,I LOVED it!
+438,4,5,1,5,Dewas,0,0.648,0.352,0.7171,My drink was never empty and he made some really great menu suggestions.
+439,5,5,3,2,Betul,0,0.715,0.285,0.7178,"The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming."
+440,2,4,4,5,Gwalior,0,0.721,0.279,0.7213,Each day of the week they have a different deal and it's all so delicious!
+441,4,4,3,5,Jabalpur,0,0.283,0.717,0.7249,Best breakfast buffet!!!
+442,4,5,3,4,Bhopal,0,0.33,0.67,0.7269,Pretty good beer selection too.
+443,5,5,3,3,Indore,0,0.496,0.504,0.7269,The chefs were friendly and did a good job.
+444,4,5,2,5,Gwalior,0,0.697,0.303,0.7269,Today is the second time I've been to their lunch buffet and it was pretty good.
+445,4,4,4,4,Jabalpur,0,0.596,0.404,0.7269,I love the fact that everything on their menu is worth it.
+446,2,5,4,5,Indore,0,0.492,0.508,0.7339,"Good service, very clean, and inexpensive, to boot!"
+447,5,5,3,3,Gwalior,0.037,0.749,0.214,0.7351,"Our server was very nice, and even though he looked a little overwhelmed with all of our needs, he stayed professional and friendly until the end."
+448,4,3,5,4,Mandsaur,0,0.762,0.238,0.7383,"They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good."
+449,5,2,5,4,Bhopal,0,0.701,0.299,0.7391,"seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere."
+450,4,2,5,5,Betul,0.095,0.548,0.357,0.7408,"Stopped by this place while in Madison for the Ironman, very friendly, kind staff."
+451,5,4,2,5,Gwalior,0,0.752,0.248,0.7414,"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way."
+452,5,4,2,5,Betul,0,0.323,0.677,0.7424,Everything was fresh and delicious!
+453,3,3,5,5,Ujjain,0,0.559,0.441,0.743,The steaks are all well trimmed and also perfectly cooked.
+454,5,5,4,2,Dewas,0,0.49,0.51,0.743,I would definitely recommend the wings as well as the pizza.
+455,3,5,4,4,Khandwa,0,0.524,0.476,0.748,The inside is really quite nice and very clean.
+456,5,5,3,3,Indore,0,0.584,0.416,0.7506,"Great food and service, huge portions and they give a military discount."
+457,4,5,2,5,Gwalior,0,0.581,0.419,0.7579,Service is perfect and the family atmosphere is nice to see.
+458,5,4,2,5,Bhopal,0,0.552,0.448,0.7579,"In an interesting part of town, this place is amazing."
+459,5,2,4,5,Ujjain,0,0.552,0.448,0.7579,"We had fantastic service, and were pleased by the atmosphere."
+460,5,1,5,5,Rewa,0,0.734,0.266,0.7592,"And considering the two of us left there very full and happy for about $20, you just can't go wrong."
+461,5,4,3,4,Bhopal,0,0.625,0.375,0.765,"Delicious NYC bagels, good selections of cream cheese, real Lox with capers even."
+462,5,4,3,4,Rewa,0,0.575,0.425,0.7688,The pancake was also really good and pretty large at that.
+463,4,4,5,3,Dewas,0,0.427,0.573,0.7717,"This place is like Chipotle, but BETTER."
+464,5,5,5,1,Khandwa,0,0.542,0.458,0.7762,"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!"
+465,5,5,4,2,Gwalior,0,0.469,0.531,0.7783,I liked the patio and the service was outstanding.
+466,5,4,3,4,Mandsaur,0,0.594,0.406,0.7802,The folks at Otto always make us feel so welcome and special.
+467,5,2,4,5,Rewa,0,0.504,0.496,0.7841,The food was excellent and service was very good.
+468,4,4,4,4,Indore,0,0.734,0.266,0.7845,Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.
+469,3,4,5,4,Mandsaur,0,0.386,0.614,0.788,"You get incredibly fresh fish, prepared with care."
+470,5,4,4,4,Betul,0,0.72,0.28,0.7901,"They will customize your order any way you'd like, my usual is Eggplant with Green Bean stir fry, love it!"
+471,3,5,4,5,Ujjain,0,0.36,0.64,0.7964,My friend loved the salmon tartar.
+472,5,3,5,4,Jabalpur,0,0.458,0.542,0.7964,I could care less... The interior is just beautiful.
+473,5,3,4,5,Mandsaur,0,0.458,0.542,0.807,The sweet potato fries were very good and seasoned well.
+474,4,5,3,5,Khandwa,0,0.733,0.267,0.807,I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.
+475,3,5,4,5,Bhopal,0,0.601,0.399,0.8074,"This hole in the wall has great Mexican street tacos, and friendly staff."
+476,5,5,3,4,Bhopal,0,0.485,0.515,0.8173,This is a really fantastic Thai restaurant which is definitely worth a visit.
+477,4,5,5,3,Ujjain,0,0.774,0.226,0.8221,"Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!"
+478,5,4,4,4,Gwalior,0,0.51,0.49,0.8268,As always the evening was wonderful and the food delicious!
+479,5,4,5,3,Gwalior,0,0.565,0.435,0.8271,"On a positive note, our server was very attentive and provided great service."
+480,4,4,4,5,Gwalior,0,0.684,0.316,0.8334,"Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations."
+481,4,3,5,5,Betul,0,0.277,0.723,0.8336,Wow very spicy but delicious.
+482,3,4,5,5,Rewa,0,0.616,0.384,0.8439,"The food was delicious, our bartender was attentive and personable AND we got a great deal!"
+483,4,5,3,5,Mandsaur,0,0.574,0.426,0.847,"In the summer, you can dine in a charming outdoor patio - so very delightful."
+484,5,5,3,5,Indore,0,0.268,0.732,0.8481,A great way to finish a great.
+485,4,4,5,5,Indore,0.099,0.604,0.297,0.8481,"The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten."
+486,3,5,5,5,Betul,0,0.423,0.577,0.8481,"The staff are great, the ambiance is great."
+487,5,4,5,4,Gwalior,0,0.613,0.387,0.8481,This is an Outstanding little restaurant with some of the Best Food I have ever tasted.
+488,5,5,3,5,Mandsaur,0,0.571,0.429,0.85,"Of all the dishes, the salmon was the best, but all were great."
+489,5,4,5,4,Ujjain,0,0.491,0.509,0.8519,"The dining space is tiny, but elegantly decorated and comfortable."
+490,5,5,4,4,Khandwa,0,0.52,0.48,0.8519,My ribeye steak was cooked perfectly and had great mesquite flavor.
+491,5,4,5,4,Gwalior,0,0.658,0.342,0.8531,"I LOVED their mussels cooked in this wine reduction, the duck was tender, and their potato dishes were delicious."
+492,5,5,4,4,Mandsaur,0,0.583,0.417,0.8613,I love the Pho and the spring rolls oh so yummy you have to try.
+493,5,4,4,5,Dewas,0.058,0.558,0.385,0.8689,this was a different cut than the piece the other day but still wonderful and tender s well as well flavored.
+494,4,5,5,5,Gwalior,0,0.634,0.366,0.8689,Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.
+495,5,4,5,5,Betul,0,0.525,0.475,0.8738,"Both of them were truly unbelievably good, and I am so glad we went back."
+496,5,5,5,4,Bhopal,0.075,0.446,0.479,0.8945,"It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party."
+497,5,5,4,5,Khandwa,0,0.427,0.573,0.9022,"On the good side, the staff was genuinely pleasant and enthusiastic - a real treat."
+498,5,5,4,5,Khandwa,0,0.339,0.661,0.9136,"Loved it...friendly servers, great food, wonderful and imaginative menu."
+499,5,5,5,5,Indore,0,0.538,0.462,0.9162,"The food was very good and I enjoyed every mouthful, an enjoyable relaxed venue for couples small family groups etc."
